@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Mo!
 
-<!--
-**mohammadsoleimani/mohammadsoleimani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Statistician & Data Optimization Specialist
 
-Here are some ideas to get you started:
+I'm an Industrial Engineer and Statistician passionate about solving real-world problems through data-driven decision making and system optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 **About Me**
+
+- 🎓 **Education:**  
+  - BSc in Optimization  
+  - MSc in Statistics
+
+- 💼 **Profession/Title:**  
+  Statistician & Optimization Expert
+
+- 🛠️ **Top Skills & Technologies:**  
+  - **R**  
+  - **Python**  
+  - **Machine Learning**  
+  - **Deep Learning**  
+  - **Reinforcement Learning**
+
+- 🏆 **Favorite Projects:**  
+  Explore my repositories for notable projects in analytics, optimization, and AI!
+
+---
+
+### 🚀 **What Drives Me**
+Turning data into insights and actionable solutions is my core passion. Whether optimizing industrial processes, building predictive models, or applying reinforcement learning to dynamic systems, I love tackling challenging problems that make a real impact.
+
+---
+
+### 📫 **Connect with Me**
+Feel free to check out my work, ask questions, or collaborate:
+- [GitHub Profile](https://github.com/mohammadsoleimani)
+
+---
+
+> *"Transforming systems through statistics, optimization, and smart algorithms."*
